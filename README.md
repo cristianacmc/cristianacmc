@@ -13,8 +13,8 @@
 </h1>
 </div>
 
-- 🔭 I’m currently doing a trainning in Cloud Consultancy
-- 🌱 I’m currently learning git, agile, scrum 
+- 🔭 I’m currently doing a trainning in **_Cloud Consultancy_**
+- 🌱 I’m currently learning **_git, agile, scrum_**
 - 📫 You can see my Data Analysis portfolio here: 
-- 😄 Pronouns: she / hers / her
+- 😄 Pronouns: **_she / hers / her_**
 
