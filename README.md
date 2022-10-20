@@ -14,7 +14,7 @@
 </div>
 
 - 🔭 I’m currently doing a trainning in **_Cloud Consultancy_**
-- 🌱 I’m currently learning **_git, agile, scrum_**
+- 🌱 I’m currently learning **_git, agile, scrum, cloud_**
 - 📫 You can see my Data Analysis portfolio here https://cristianacmc.github.io/cristianaportfolio/
 - 😄 Pronouns: **_she / hers / her_**
 
